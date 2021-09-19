@@ -1,0 +1,20 @@
+21/08/2021
+75000
+-sandeep    =10000
+-tsdairy    =10000
+-course fee =5000 
+-shop rent  =7000
+-house      =893
+(maintaince &electricity bill)
+-guntur gold loan =12000
+shop eletricity bill =1042
+---------------------------
+total    = 46000
+---------------------------
+remaining  = 29000
+---------------------------
+-rice      =1200
+-house exe =200
+---------------------------
+remaining  =27600
+---------------------------
